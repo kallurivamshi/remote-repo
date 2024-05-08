@@ -4,3 +4,6 @@ Another update in commit-a3
 QA update in commit-b1
 QA update in commit-b2
 QA update in commit-b3
+Dev update in commit-c1
+Dev update in commit-c2
+Dev update in commit-c3
