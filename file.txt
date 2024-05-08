@@ -3,3 +3,4 @@ File updated in commit-a2
 Another update in commit-a3
 QA update in commit-b1
 QA update in commit-b2
+QA update in commit-b3
